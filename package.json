@@ -1,6 +1,6 @@
 {
-  "name": "template-next-typescript",
-  "version": "0.1.0",
+  "name": "chucrut",
+  "version": "1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
