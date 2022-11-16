@@ -10,13 +10,6 @@ Template the Next with Typescript
 - Jest (Test)
 - Husky
 
-## Install dependencies
-
-
-1.  **`yarn -i`** => Install packages
-2. **`yarn prepare`** (important!) => Config husky precommit
-3. Make sure you have the `.husky/_`
-
 ## Commands
 All commands are run from the root of the project, from a terminal:
 
