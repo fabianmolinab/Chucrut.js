@@ -1,0 +1,5 @@
+node_modules
+lint-staged
+next.config.jsdom
+tsconfig.json
+yarn.lock
